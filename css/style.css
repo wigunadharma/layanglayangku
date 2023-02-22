@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+nav.navbar ul li.nav-item {
+  background-color: #fff;
+  border: none;
+}
+div#wrapper .navbar-nav {
+  background-color: #6e3095;
+}
+
+.card-group .card-img-top {
+  width: 350px;
+  height: 272px;
+}
+
+.row .card-header h6 {
+  color: #6e3095;
+}
+
+.row .card-body {
+  color: #06114f;
+}
+
+.row .card-footer a {
+  color: #6e3095;
+  font-weight: 500;
+}

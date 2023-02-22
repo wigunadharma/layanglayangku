@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+nav.navbar ul li.nav-item {
+  background-color: #fff;
+  border: none;
+}
+div#wrapper .navbar-nav {
+  background-color: #6e3095;
+}
